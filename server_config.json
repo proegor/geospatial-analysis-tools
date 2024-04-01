@@ -1,0 +1,3 @@
+hOld = SelectObject(hdc, hhi);
+It does not matter that the 'invModulate' array consists only of three items. This code is taken from the legendary game Wolfenstein 3D.
+pattern->patternRepeatY = true;
